@@ -1,5 +1,5 @@
 # nGoogleCalendarSync
-Creates "busy" events on "another" calendar from your calendar. 
+Creates "busy" events on a destination calendar from a source calendar. 
 
 This is still a WIP.
 
