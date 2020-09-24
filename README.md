@@ -25,4 +25,4 @@ For this script to work, the source Google account has to have edit access to th
 
 # Notes
 
-- Thanks to [@AlyssaM_InfoSec](https://twitter.com/AlyssaM_InfoSec) for the idea.
+- Thanks to [@AlyssaM_InfoSec](https://twitter.com/AlyssaM_InfoSec) for [the idea](https://twitter.com/IMTheNachoMan/status/1308944324294565888?s=20).
