@@ -22,3 +22,7 @@ For this script to work, the source Google account has to have edit access to th
 
 - Right now the script does not delete events from the destination calendar when they are deleted from the source calendar
 - There are many types of calendar changes (e.g. changing the title, moving it, adding a description, etc...). Right now the code does not determine the change type and will create a new event on the destination for any/all changes. Eventually I'll figure out how to determine the event change type and do something accordingly.
+
+# Notes
+
+- Thanks to [@AlyssaM_InfoSec](https://twitter.com/AlyssaM_InfoSec) for the idea.
